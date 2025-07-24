@@ -5,7 +5,7 @@ In this i basically created a simple chat bot.
 '''
 from google import genai
 from google.genai import types
-client=genai.Client(api_key='AIzaSyDZDERkK2zePpFmXiGOOuO8H3LwqJEiSNs')
+client=genai.Client(api_key='')
 print("Welcome to Demo chatbot")
 print(" chat with the bot with anytopic")
 print("if u want to exit write exit")
