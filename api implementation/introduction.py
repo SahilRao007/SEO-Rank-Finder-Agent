@@ -6,7 +6,7 @@ pretty basic project
 from google import genai
 from google.genai import types 
 
-client=genai.Client(api_key='AIzaSyDZDERkK2zePpFmXiGOOuO8H3LwqJEiSNs')
+client=genai.Client(api_key='')
 
 print(' '*5,'enter')
 prompt=input('User: ')
