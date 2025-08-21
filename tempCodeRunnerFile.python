@@ -1,8 +1,0 @@
-class checking:
-    def __init__(self):
-        print("constructor on working")
-
-    def __del__(self):
-        print("destructor called")
-
-e=checking()
