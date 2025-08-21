@@ -1,7 +1,7 @@
 
 #   Rank Checker (Local AI Agent)
 
-This project is a **Local AI Agent** that checks whether [webreinvent.com](https://webreinvent.com) [ 'This can be for any website '] appears in **Bing search results** for given keywords.  
+This project is a **Local AI Agent** that checks whether entered website in this case 'webreinvent' in **Bing search results** for given keywords.  
 It combines **web scraping (Selenium)**, a **local LLM (Ollama + LLaMA 3)**, and a **Streamlit UI** to provide both raw search data and an AI-generated analysis.
 
 ---
